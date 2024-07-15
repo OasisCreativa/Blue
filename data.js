@@ -925,7 +925,7 @@ var APP_DATA = {
           "target": "4-family"
         },
         {
-          "yaw": 3.20551362574307305,
+          "yaw": 3.10551362574307305,
           "pitch": 0.08990356907638031,
           "rotation": 0,
           "target": "2-sala"
